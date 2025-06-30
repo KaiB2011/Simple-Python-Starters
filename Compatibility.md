@@ -1,6 +1,8 @@
 This text file shows the compatibility for all software.
 
-All of the code that I have realeased should work on any OS although only MacOS has been tested (Windows and Linux testing to come).
+To see the text file in the correct format, please open the RAW file.
+
+All of the code that I have released should work on any OS, although only MacOS has been tested (Windows and Linux testing to come).
 
 Simple Calculator:
 Windows ~
